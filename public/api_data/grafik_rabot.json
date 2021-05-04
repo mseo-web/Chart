@@ -1,0 +1,30 @@
+{
+	"data": [
+		{
+		"id": 1,
+		"name": "Компания \"SMARTEXWEB\"",
+		"description": "Этот проект создан с целью изучения CMS WordPress и с целью изучить и разобраться в огромном количестве тем, плагинов, аддонов, фреймворков и прочего для CMS WordPress.",
+		"client": "SMARTEXWEB",
+		"spec": "Генеральный директор, программист fullstack.",
+		"period": "2020",
+		"siteurl": "https://smartexweb.kz/",
+		"created_at": "2021-02-05 15:26:28",
+		"updated_at": "2021-02-05 15:26:28",
+		"deleted_at": null,
+		"author_id": null,
+		},
+		{
+			"id": 2,
+			"name": "SMARTEXWEB - OctoberCMS",
+			"description": "Этот проект создан с целью изучения CMS October и с целью изучить и разобраться в огромном количестве тем, плагинов и прочего для CMS October.",
+			"client": "SMARTEXWEB",
+			"spec": "Генеральный директор, программист fullstack.",
+			"period": "2020",
+			"siteurl": "https://october.smartexweb.kz/",
+			"created_at": "2021-02-06 09:26:35",
+			"updated_at": "2021-02-06 09:26:35",
+			"deleted_at": null,
+			"author_id": null,
+		}
+	]
+}

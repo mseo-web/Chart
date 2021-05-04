@@ -1,0 +1,19 @@
+.grafik-table {
+	font-size: 12px;
+}
+.grafik-table td, .grafik-table th {
+	padding: 0.25rem;
+}
+.grafik-table .month-td {
+	font-size: 9px;
+}
+/*Цвета графика*/
+.obj-plan-color {
+	background-color: #A9A9A9;
+}
+.work-plan-color {
+	background-color: #1E90FF;
+}
+.work-fact-color {
+	background-color: #008000;
+}
